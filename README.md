@@ -1,1 +1,1 @@
-This is a portfolio that tells more about me
+This is a portfolio website
